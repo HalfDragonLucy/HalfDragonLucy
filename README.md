@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m currently working on **Mod Manager for Guilty Gear -Strive-**<br>I’m currently learning **Electron**<br>
+I’m currently working on <img src="https://cdn.discordapp.com/attachments/989997724755689532/997915082166116422/icon-512.png" width="32">
 
 
 ## 🌐 Socials
