@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m currently working on <img src="https://cdn.discordapp.com/attachments/989997724755689532/997915082166116422/icon-512.png" width="32">
+I’m currently working on helping random people on the internet
 
 
 ## 🌐 Socials
