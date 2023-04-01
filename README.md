@@ -1,12 +1,40 @@
-# 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HalfDragonLucy&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HalfDragonLucy&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HalfDragonLucy&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" height="400" src="https://cdn.discordapp.com/banners/681840671036014677/9383318d4e9712ec3ea789a4307c03a0?size=4096"  />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HalfDragonLucy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=HalfDragonLucy&icon=5&color=6)](https://visitcount.itsvg.in)
+<h1 align="center">HalfDragonLucy</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HalfDragonLucy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HalfDragonLucy&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" width="92" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="80" width="92" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="92" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" width="92" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="92" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" width="92" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="80" width="92" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="80" width="92" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCA06fRPkE7ZZDl1cLaXE51g" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="92" height="80" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/halfdragonlucy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="92" height="80" alt="twitch logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="92" height="80" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="92" height="80" alt="gmail logo"  />
+</div>
+
+###
