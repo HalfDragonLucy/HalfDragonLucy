@@ -25,8 +25,4 @@ I'm actively seeking small projects to make contributions to. If you have a proj
 - 📚 Lifelong Learner
 - 🎮 Gamer
 
-## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HalfDragonLucy&show_icons=true&theme=dark)
-![GitHub Contribution Graph](https://github.com/users/HalfDragonLucy/contributions)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HalfDragonLucy)](https://github.com/ryo-ma/github-profile-trophy)
