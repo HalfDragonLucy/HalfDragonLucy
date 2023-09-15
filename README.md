@@ -14,6 +14,10 @@ I'm actively seeking small projects to make contributions to. If you have a proj
 [![AuraDDX Latest Commit](https://img.shields.io/github/last-commit/HalfDragonLucy/AuraDDX?logo=github)](https://github.com/HalfDragonLucy/AuraDDX)
 [![AuraDDX Latest Release](https://img.shields.io/github/v/release/HalfDragonLucy/AuraDDX?label=Latest%20Release&logo=github)](https://github.com/HalfDragonLucy/AuraDDX/releases)
 
+[![FloraSpace Repository](https://img.shields.io/badge/FloraSpace-Repository-blue?logo=github)](https://github.com/HalfDragonLucy/FloraSpace)
+[![FloraSpace Latest Commit](https://img.shields.io/github/last-commit/HalfDragonLucy/FloraSpace?logo=github)](https://github.com/HalfDragonLucy/FloraSpace)
+[![FloraSpace Latest Release](https://img.shields.io/github/v/release/HalfDragonLucy/FloraSpace?label=Latest%20Release&logo=github)](https://github.com/HalfDragonLucy/FloraSpace/releases)
+
 [![TextModEditor Repository](https://img.shields.io/badge/TextModEditor-Repository-blue?logo=github)](https://github.com/HalfDragonLucy/TextModEditor)
 [![TextModEditor Latest Commit](https://img.shields.io/github/last-commit/HalfDragonLucy/TextModEditor?logo=github)](https://github.com/HalfDragonLucy/TextModEditor)
 [![TextModEditor Latest Release](https://img.shields.io/github/v/release/HalfDragonLucy/TextModEditor?label=Latest%20Release&logo=github)](https://github.com/HalfDragonLucy/TextModEditor/releases)
