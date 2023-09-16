@@ -10,9 +10,9 @@ I'm actively seeking small projects to make contributions to. If you have a proj
 [![GitHub followers](https://img.shields.io/github/followers/HalfDragonLucy?style=social)](https://github.com/HalfDragonLucy?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/HalfDragonLucy?style=social)](https://github.com/HalfDragonLucy?tab=stars)
 
-[![AuraDDX Repository](https://img.shields.io/badge/AuraDDX-Repository-blue?logo=github)](https://github.com/HalfDragonLucy/AuraDDX)
-[![AuraDDX Latest Commit](https://img.shields.io/github/last-commit/HalfDragonLucy/AuraDDX?logo=github)](https://github.com/HalfDragonLucy/AuraDDX)
-[![AuraDDX Latest Release](https://img.shields.io/github/v/release/HalfDragonLucy/AuraDDX?label=Latest%20Release&logo=github)](https://github.com/HalfDragonLucy/AuraDDX/releases)
+[![Aura Repository](https://img.shields.io/badge/Aura-Repository-blue?logo=github)](https://github.com/HalfDragonLucy/Aura)
+[![Aura Latest Commit](https://img.shields.io/github/last-commit/HalfDragonLucy/Aura?logo=github)](https://github.com/HalfDragonLucy/Aura)
+[![Aura Latest Release](https://img.shields.io/github/v/release/HalfDragonLucy/Aura?label=Latest%20Release&logo=github)](https://github.com/HalfDragonLucy/Aura/releases)
 
 [![FloraSpace Repository](https://img.shields.io/badge/FloraSpace-Repository-blue?logo=github)](https://github.com/HalfDragonLucy/FloraSpace)
 [![FloraSpace Latest Commit](https://img.shields.io/github/last-commit/HalfDragonLucy/FloraSpace?logo=github)](https://github.com/HalfDragonLucy/FloraSpace)
